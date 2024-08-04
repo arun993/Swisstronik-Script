@@ -16,5 +16,13 @@ wget https://raw.githubusercontent.com/arun993/Swisstronik-Script/main/private-n
 ```bash
 wget https://raw.githubusercontent.com/arun993/Swisstronik-Script/main/proxy.sh && chmod +x proxy.sh && ./proxy.sh 
 ```
+**Submit Proxy deployed contract in section 1st
+
+**Submit this in 3rd section (Must add your hash in it which will appear at the end) : 
+```bash
+https://explorer-evm.testnet.swisstronik.com/tx/<Replace_With_Your_Txn_Hash>
+```
+Done..
+
 ### Follow me on [X](https://x.com/Arun__993) for more .
 ### Thanks to [Zun](https://x.com/ZunXBT).
