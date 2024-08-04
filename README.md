@@ -1,6 +1,6 @@
 <h1 align="center">Swisstronik-Script Task no. 4,5,6</h1>
 
-## If you didn't completed task 1,2 and 3 you can navigate [Here](https://github.com/dxzenith/Swisstronic-Script?tab=readme-ov-file#task-1--simple-contract-deployment-script). created by [ZunXBT](https://x.com/ZunXBT)
+## If you didn't completed task 1,2 and 3 you can navigate [Here](https://github.com/dxzenith/Swisstronic-Script/blob/main/README.md). created by [ZunXBT](https://x.com/ZunXBT)
 
 ## Task 4 Script : Mint a PERC-20 token
 ```bash
