@@ -168,3 +168,4 @@ echo "NFT minted."
 print_blue "Pushing these files to your github Repo link"
 git add . && git commit -m "Initial commit" && git push origin main
 echo
+echo -e "\e[31mDone! Follow : https://x.com/Arun__993\e[0m"
