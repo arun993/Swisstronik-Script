@@ -1,4 +1,4 @@
-<h1 align="center">Swisstronic-Script Task no. 4,5,6</h1>
+<h1 align="center">Swisstronik-Script Task no. 4,5,6</h1>
 
 ## If you didn't completed task 1,2 and 3 you can navigate [Here](https://github.com/dxzenith/Swisstronic-Script?tab=readme-ov-file#task-1--simple-contract-deployment-script). created by https://github.com/dxzenith
 
